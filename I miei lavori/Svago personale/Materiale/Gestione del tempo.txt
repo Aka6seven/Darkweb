@@ -1,0 +1,36 @@
+
+
+
+Organizzare un calendario
+inizio del nostro programma esempi:
+(Qualcuno potrebbe guastare il programma)
+Lunedi: fare un dolce
+Martedì
+Mercoledì
+ecc ecc...
+
+Fine periodo: fare un controllo, per capire se sono riuscito a fare tutto
+Fase del check
+1) ho raggiunto l'obbiettivo?
+2)
+3) Quali sono stati gli imprevisti?
+
+Fase del miglioramento
+Cosa posso fare la prossima volta?
+Per ridurre le durate
+
+Il ciclo del miglioramento continuo
+
+
+I rischi:
+Ad esempio, creare una lista, per votare la scelta preferita
+Cosa può accadere?
+1) I voti potrebbero essere gli stessi
+2) Solo la scelta piu votata può essere la migliore
+
+Scelgo quello col voto piu basso??
+Ovviamente capendo quella che potrebbe essere la preferita per tutti
+
+La prevenzione dei rischi
+persone disponibili
+ Le attività in rosso, potrebbero essere annullate per fare attività extra che il mio capo mi avrà dato (e su queste, fare una scelta)
