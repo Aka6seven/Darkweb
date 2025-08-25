@@ -6,3 +6,5 @@ Documentino (in cui stanno i miei segreti)
 
 # Novità
 Vedrò, ma sarà qualcosa di speciale 🥰
+
+! Aggiornamenti futuri
