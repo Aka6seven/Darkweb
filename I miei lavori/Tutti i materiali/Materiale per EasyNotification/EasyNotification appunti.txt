@@ -1,0 +1,55 @@
+EasyNotification Core
+
+Gli obbiettivi di SEND è quello di: automatizzare il processo e ridurre i corsi
+I costi si dividono tra Ente e SEND di 1€
+
+EasyNotification Core è il nostro motore che:
+•	Agisce da facilitatore tra l’ente e i suoi applicativi
+•	Ha il compito di tradurre le informazioni raccolte dagli applicativi di dominio
+•	Trasferisce le notifiche a SEND e successivamente all’invio effettua un monitoraggio del processo di consegna attraverso dei report
+
+Componenti fondamentali
+Cartella SFTP:
+•	IN
+•	OUT
+
+Microservizi\Worker che ha 3 macrofunzioni:
+La traduzione e l’invio a PN
+
+Il monitoraggio dell’accettazione notifiche
+
+Il monitoraggio dello Stato di avanzamento
+
+Su queste 3 macrofunzioni, EN ha 6 microservizi:
+•	Notification collector
+•	Notification parser
+•	Notification sender
+•	Notification status checker
+•	Notification delivery status checker
+•	Notification price collector
+
+Le API sono 2:
+API Core
+API Attualizzazione
+Onboarding verso EN
+EasyNotification Configuration Manager
+
+Notifica App IO:
+Cosa vedrà il cittadino?
+•	Riceverà una notifica per SEND direttamente nell’app IO, lo apre e vede che ha ricevuto una notifica a valore legale [di solito, se è la prima volta, visualizzerà un pulsante di iscrizione, direttamente nell’app]
+
+Workflow
+•	Si parte con la registrazione di un contratto
+Il contratto può essere diretto o indiretto
+
+
+Easy Notification Back Office
+
+Cartella SFTP:
+•	IN
+•	OUT
+
+Portale di Back office:
+•	Flussi
+•	Flussi esterni
+•	Notifiche AI
